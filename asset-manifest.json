@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nivo-visualization/static/css/main.e6c13ad2.css",
+    "main.js": "/nivo-visualization/static/js/main.f826939c.js",
+    "static/js/453.a64eb9fe.chunk.js": "/nivo-visualization/static/js/453.a64eb9fe.chunk.js",
+    "index.html": "/nivo-visualization/index.html",
+    "main.e6c13ad2.css.map": "/nivo-visualization/static/css/main.e6c13ad2.css.map",
+    "main.f826939c.js.map": "/nivo-visualization/static/js/main.f826939c.js.map",
+    "453.a64eb9fe.chunk.js.map": "/nivo-visualization/static/js/453.a64eb9fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f826939c.js"
+  ]
+}
