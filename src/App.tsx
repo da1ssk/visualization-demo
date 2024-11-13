@@ -5,7 +5,7 @@ import Dashboard from "./components/Dashboard"
 const App: React.FC = () => {
   return (
     <div style={{ padding: "20px" }}>
-      <h1>Nivo Visualization Dashboard</h1>
+      <h1>Nivo Visualization Demo</h1>
       <Dashboard />
     </div>
   )

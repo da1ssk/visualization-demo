@@ -6,10 +6,10 @@ import BarChart from "./BarChart"
 const Dashboard: React.FC = () => (
   <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
     <div style={{ height: "400px" }}>
-      <FunnelChart />
-    </div>
-    <div style={{ height: "400px" }}>
       <BarChart />
+    </div>
+    <div style={{ height: "400px", marginTop: "40px" }}>
+      <FunnelChart />
     </div>
   </div>
 )
